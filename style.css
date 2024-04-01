@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 3%;
+	padding-right: 3%;	
+    }
+dl{
+		text-align: left;
+}
+ol{
+		text-align: left;
+}
+h1{
+	text-align: left;
+}
